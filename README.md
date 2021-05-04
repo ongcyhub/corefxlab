@@ -6,7 +6,8 @@ This repo is for experimentation and exploring new ideas that may or may not mak
 
 |    | x64 Debug | x64 Release |
 |:---|----------------:|------------------:|
-|**Windows NT**|[![x64-debug](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/windows_nt_debug/badge/icon)](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/windows_nt_debug/lastCompletedBuild/testReport)|[![x64-release](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/windows_nt_release/badge/icon)](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/windows_nt_release/lastCompletedBuild/testReport)
+|**Windows NT**|[![x64-debug](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/windows_nt_debug/badge/icon)](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/windows_nt_debug/lastCompletedBuild/testReport)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fongcyhub%2Fcorefxlab.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fongcyhub%2Fcorefxlab?ref=badge_shield)
+|[![x64-release](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/windows_nt_release/badge/icon)](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/windows_nt_release/lastCompletedBuild/testReport)
 |**Ubuntu 16.04**|[![x64-debug](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/ubuntu16.04_debug/badge/icon)](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/ubuntu16.04_debug/lastCompletedBuild/testReport)|[![x64-release](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/ubuntu16.04_release/badge/icon)](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/ubuntu16.04_release/lastCompletedBuild/testReport)
 |**OSX 10.12**|[![x64-debug](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/osx10.12_debug/badge/icon)](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/osx10.12_debug/lastCompletedBuild/testReport)|[![x64-release](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/osx10.12_release/badge/icon)](https://ci.dot.net/job/dotnet_corefxlab/job/master/job/osx10.12_release/lastCompletedBuild/testReport)
 
@@ -105,6 +106,9 @@ You can add this feed among your NuGet sources and install the packages (keep in
 ## License
 
 This project is licensed under the [MIT license](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fongcyhub%2Fcorefxlab.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fongcyhub%2Fcorefxlab?ref=badge_large)
 
 ## .NET Foundation
 
